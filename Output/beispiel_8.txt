@@ -1,0 +1,25 @@
+//**********************************************
+//Beispiel 8
+//**********************************************
+Dimension 1,1,6
+Anordnung der Teile
+Ebene 6
+2 F
+
+Ebene 5
+0
+E
+
+Ebene 4
+4 D
+
+Ebene 3
+4
+B
+
+Ebene 2
+0 C
+
+Ebene 1
+3
+A

@@ -1,0 +1,1 @@
+Laenge 2 und Breite 3 in Datei "../../Input/falsche_dimension.txt" in Zeile 4 sind nicht gleich

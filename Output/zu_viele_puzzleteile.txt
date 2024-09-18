@@ -1,0 +1,1 @@
+Datei "../../Input/zu_viele_puzzleteile.txt" hat zu viele Puzzleteile

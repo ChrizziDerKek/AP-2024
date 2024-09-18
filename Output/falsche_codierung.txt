@@ -1,0 +1,1 @@
+Codierung 5 in Datei "../../Input/falsche_codierung.txt" in Zeile 8 ist nicht zulaessig

@@ -1,0 +1,1 @@
+Bezeichnung 9 in Datei "../../Input/falsche_bezeichnung.txt" in Zeile 8 ist nicht zulaessig

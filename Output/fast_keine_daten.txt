@@ -1,0 +1,1 @@
+Datei "../../Input/fast_keine_daten.txt" hat keine Puzzleteile
